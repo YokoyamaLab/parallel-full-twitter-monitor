@@ -2,10 +2,10 @@
   "name": "parallel-full-twitter-monitor",
   "version": "0.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
-    "test": "node index.js",
-    "start": "node index.js"
+    "test": "node index.mjs",
+    "start": "node index.mjs"
   },
   "repository": {
     "type": "git",
